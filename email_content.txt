@@ -1,0 +1,15 @@
+
+        # Email content from 2024-08-17 08:33:31+05:30
+        email_content = '''Hi Team,
+
+I am a new student at the university and have some questions regarding
+credit transfer, course duration, and the prerequisites for the program. I
+would greatly appreciate it if you could provide a detailed overview of the
+course.
+
+Thank you for your help.
+
+Best regards,
+Lata Sedha
+'''
+        
